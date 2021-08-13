@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """
 This program will print the message "Welcome to python" 
 but the message will be assigned to a variable, preceded by a blank line.
